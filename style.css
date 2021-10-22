@@ -1,0 +1,360 @@
+body{
+    height: 2100px;
+    width: 1000px;
+    margin: 0 auto;
+    display: block;
+    background-color: #f3f3f3;
+}
+
+#header_area{
+    margin: 30px;
+    height: 500px;
+    margin-bottom: 50px;
+    
+}
+
+.header1{
+    float: left;
+    padding-top: 100px;
+    width: 50%;
+    font-size: 23px;
+
+
+}.header1 h1{
+    color: #575757;
+
+    
+}
+.color_skip{
+    color: orange;
+     
+}
+
+.header1 p{
+    color: #828282;
+    margin-bottom: 40px;
+
+}
+.header1 a {
+    text-decoration: none;
+    padding: 15px 34px;
+    background-image: linear-gradient(to left,#fe4a2f, #fc964c);
+    border-radius: 25px;
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.header2{
+    float: right;
+    width: 50%;
+} 
+
+.header2 img{
+    margin: 40px;
+    width: 85%;
+    text-align: right;
+}
+
+
+#content_area {
+        height: 400px;
+        display: flex;
+        background-image: url(images/Frame\ 58.jpg);
+        background-position: right;
+        background-size: cover;
+
+
+}
+
+.content1 {
+    width: 50%;
+
+}
+
+.content1 img{
+    width: 231px;
+    padding-left: 119px;
+    padding-top: 34px;
+
+}
+
+.content2{
+    width: 50%;
+    margin-top: 73px;
+    margin-left: 71px;
+
+}
+.content2 h1{
+    color: #707070;
+    font-size: 27px;
+
+}
+.content2 p{
+    width: 280px;
+    text-align: justify;
+    margin-bottom: 40px;
+    
+}
+.content2 a{
+    text-decoration: none;
+    padding: 13px 29px;
+    background-image: linear-gradient(to left,#fe4a2f, #fc964c);
+    border-radius: 25px;
+    color: #ffffff;
+    font-size: 18px; 
+    
+}
+
+
+#recipie_area{
+    height: 134px;
+    padding-top: 7px;
+    padding-bottom: 10px;
+
+}
+
+.area{
+    text-align: center;
+
+
+}
+
+
+.area h1{
+     color: #676767;
+     font-size: 29px;
+}
+.area p{
+    
+    width: 485px;
+    padding-left: 260px;
+    color: #555555;
+    font-size: 20px;
+}
+
+#container_area{
+    width: auto;
+
+
+
+}
+
+
+.recipie_area{
+    margin: 30px;
+    display: flex;
+
+
+}
+
+.recipie1{
+    width: 300px;
+    height: 392px;
+    background-color: #ffffff;
+    border: 1px;
+    border-radius: 25px;
+    margin-right: 20px;
+
+}
+
+.for_padding1{
+    padding: 15px;
+
+}
+
+.recipie1 img{
+    width: 270px;
+    
+}
+
+.recipie1 h2{
+    font-size: 25px;
+    font-family: cursive;
+
+    
+}
+.recipie1 p{
+    color: #797A7d;
+    text-align: justify;
+    font-size: 17px;
+
+    
+}
+
+.recipie2{
+    width: 300px;
+    height: 392px;
+    background-color: #ffffff;
+    border: 1px;
+    border-radius: 25px;
+    margin-right: 20px;
+ 
+}
+
+.for_padding2{
+    padding: 15px;
+
+}
+
+.recipie2 img{
+    width: 270px;
+    
+}
+.recipie2 h2{
+    font-size: 25px;
+    font-family: cursive;
+    
+}
+.recipie2 p{
+    color: #797A7d;
+    text-align: justify;
+    font-size: 17px;
+
+    
+}
+.recipie3{
+    width: 300px;
+    height: 392px;
+    background-color: #ffffff;
+    border: 1px;
+    border-radius: 25px;
+    margin-right: 20px;
+    
+}
+
+.for_padding3{
+    padding: 15px;
+
+}
+
+.recipie3 img{
+    width: 270px;
+    
+}
+
+.recipie3 h2{
+    font-size: 25px;
+    font-family: cursive;
+    
+}
+
+.recipie3 p{
+    color: #797A7d;
+    text-align: justify;
+    font-size: 17px;
+    
+}
+
+
+#social_area{
+    margin-top: 112px;
+
+}
+
+.follower{
+    display: flex;
+    width: 943px;
+    border: 1px;
+    background-color: #ffffff;
+    border-radius: 30px;
+    margin-left: 27px;
+    height: 182px;
+
+}
+.youtube{
+    padding-left: 110px;
+
+}
+.youtube h1{
+    font-size: 45px;
+    font-family: cursive;
+    
+}
+.youtube p{
+    font-family: cursive;
+    margin-top: -28px;
+    
+}
+
+.instagram{
+    padding-left: 160px;
+
+}
+.instagram h1{
+    font-size: 45px;
+    font-family: cursive;
+    
+}
+.instagram p{
+    font-family: cursive;
+    margin-top: -28px;
+
+    
+}
+
+.dribble{
+    padding-left: 160px;
+
+}
+.dribble h1{
+    font-size: 45px;
+    font-family: cursive;
+
+}
+.dribble p{
+    font-family: cursive;
+    margin-top: -28px;
+
+}
+
+#footer_area{
+    background-color: #0e0b17;
+    width: 1000px;
+    height: 230px;
+    margin-top: 87px;
+
+}
+
+.footer{
+    text-align: center;
+    padding-top: 34px;
+
+
+}
+.footer h1{
+    color: #5d5d5c;
+    font-size: 33px;
+
+
+}
+.footer p{
+  color: #ffffff;
+
+}
+
+.color{
+    color: orange;
+
+}
+
+.designer{
+    float: right;
+    padding-top: 20px;
+    padding-right: 22px;
+
+}
+.designer p{
+    color: #ffffff;
+    font-size:18px;
+
+    
+}
+
+.design{
+    color: tomato;
+
+}
+
+.tayeff{
+    font-family: cursive;
+}
